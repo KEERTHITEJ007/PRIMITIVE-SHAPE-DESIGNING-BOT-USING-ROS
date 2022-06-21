@@ -1,0 +1,2 @@
+# Primitive-Shape-Designing-bot-using-ROS
+Using Motor Drive, Raspberry Pi 3 and Ubuntu Software implementation. ‘Path planning robot’ is the project we opted to do in this semester. When given a path as an input, the robot will move in that path. To demonstrate here, we have chosen to input a path resembling a shape. The robot takes the input and moves in such a way that it makes a shape resembling that particular shape. If further developed, our robot can be made to travel through a non-predetermined path by calculating its next moves. ​
